@@ -1,0 +1,8 @@
+//Babel trabaja en conjunto con webpack
+//se instala babel al crear el siguiente objeto:
+{
+    "presets": [
+        "env"
+    ]
+
+}
